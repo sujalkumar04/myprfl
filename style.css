@@ -1,0 +1,123 @@
+head {
+    display: none;
+}
+element.style {
+    min-width: 25vw;
+    width: 100%;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.middle-container {
+    margin: 100px 0;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+.appl1_sgpt_float_box {
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+    z-index: 10000000;
+    opacity: 0.1;
+    transition: all 0.3s ease 0s;
+}
+.appl1_sgpt_wrapper_questionbox {
+    position: relative;
+    min-height: 60px;
+    padding-top: 10px;
+}
+
+.appl1_sgpt_float_box * {
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+.appl1_sgpt_float_box * {
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+.appl1_sgpt_float_box_buttons {
+    margin-left: auto;
+    display: flex;
+    width: fit-content;
+    align-items: center;
+}
+
+.appl1_sgpt_float_box * {
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.profile-image{
+    height: 200px;
+    border-radius: 50%;
+
+}
+.rat{
+    height: 180px;
+    
+}
+span{
+    text-decoration: underline;
+}
